@@ -9,7 +9,7 @@
 // "0", " ", []
 
 
-const name = 0;//emty string hoyle false and 0 hoyle false otherwise string name and any num hoyle true. 
+const name = ` `;//emty string hoyle false and 0 hoyle false otherwise string name and any num hoyle true. 
 
 if(name.length){
     console.log("condition is true");
